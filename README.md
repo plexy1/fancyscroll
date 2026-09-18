@@ -45,4 +45,4 @@ If you rebuild the app, macOS may treat it as a new binary and you'll need to re
 - Chromium-based apps (Chrome, Electron apps) expose very little scroll geometry to Accessibility, so end-of-page bumps there are best-effort. Safari, Finder, Mail, Xcode, Notes, Preview, etc. work through their scroll bars.
 - Haptics can only be felt while a finger is on the trackpad; that's physics, not a bug.
 - The direct-actuator engine uses a private framework; it's fine for personal use but not App Store material.
-# fancyscroll
+
